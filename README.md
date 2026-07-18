@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio
 
----
+
 Welcome to my Data Analyst Portfolio.
 
 This repository showcases my data analysis projects created using Python, SQL Server, Pandas, NumPy, Excel, and Power BI.
