@@ -20,10 +20,14 @@ A collection of my Data Analytics projects using:
 
 ---
 
-## 📊 Swiggy Sales Dashboard
+## 📁 Projects Included
 
-### 🇬🇧 English
-An interactive Excel dashboard built using real-world Swiggy sales data...
+### 1. Swiggy Sales Dashboard
 
-### 🇮🇷 فارسی
-در این پروژه با استفاده از داده‌های واقعی فروش Swiggy یک داشبورد تعاملی در Excel طراحی شده است...
+**Tools:** Excel
+
+**Skills:** Data Cleaning, Pivot Tables, Charts, Slicers, KPI Dashboard
+
+📄 **Project File:** Swiggy-Sales-Dashboard.xlsx
+
+> Built an interactive Excel dashboard using real-world Swiggy sales data. The project includes data cleaning, KPI creation, interactive visualizations, and sales performance analysis across cities, restaurants, and price ranges.
