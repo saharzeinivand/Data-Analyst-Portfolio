@@ -35,7 +35,7 @@ A collection of my Data Analytics projects using:
 - KPI Dashboard
 - Data Visualization
 
-** 📥 **Download Project File:** [Swiggy Sales Dashboard (Excel)](./Swiggy-Sales-Dashboard.xlsx)
+**📥 **Download Project File:** [Swiggy Sales Dashboard (Excel)](./Swiggy-Sales-Dashboard.xlsx)
 
 **📝 Description**
 
