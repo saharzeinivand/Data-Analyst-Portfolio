@@ -24,10 +24,19 @@ A collection of my Data Analytics projects using:
 
 ### 1. Swiggy Sales Dashboard
 
-**Tools:** Excel
+**📌 Tools:** Microsoft Excel
 
-**Skills:** Data Cleaning, Pivot Tables, Charts, Slicers, KPI Dashboard
+**📌 Skills:**
+- Data Cleaning
+- Data Transformation
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Dashboard
+- Data Visualization
 
-📄 **Project File:** Swiggy-Sales-Dashboard.xlsx
+**📄 Project File:** `Swiggy-Sales-Dashboard.xlsx`
 
-> Built an interactive Excel dashboard using real-world Swiggy sales data. The project includes data cleaning, KPI creation, interactive visualizations, and sales performance analysis across cities, restaurants, and price ranges.
+**📝 Description**
+
+Built an interactive Excel dashboard using real-world Swiggy sales data. The project includes data cleaning, KPI creation, interactive visualizations, and sales performance analysis across cities, restaurants, and price ranges.
