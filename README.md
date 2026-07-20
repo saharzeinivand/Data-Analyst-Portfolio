@@ -20,11 +20,10 @@ A collection of my Data Analytics projects using:
 
 ---
 
-## Projects
+## 📊 Swiggy Sales Dashboard
 
-| Project | Tools | Status |
-|---------|-------|--------|
-| Sales Dashboard | Power BI, Excel | ✅ |
-| Customer Segmentation | Python, Pandas | 🚧 |
-| SQL Sales Analysis | SQL Server | 🚧 |
-| Netflix Data Analysis | Python, Pandas | 🚧 |
+### 🇬🇧 English
+An interactive Excel dashboard built using real-world Swiggy sales data...
+
+### 🇮🇷 فارسی
+در این پروژه با استفاده از داده‌های واقعی فروش Swiggy یک داشبورد تعاملی در Excel طراحی شده است...
